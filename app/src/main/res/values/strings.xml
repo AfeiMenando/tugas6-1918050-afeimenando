@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pertemuan6_worker</string>
+    <string-array name="city_list">
+        <item>Gerung</item>
+        <item>Mataram</item>
+        <item>Ampenan</item>
+        <item>Kekalik</item>
+        <item>Narmada</item>
+    </string-array>
+</resources>
